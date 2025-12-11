@@ -1,35 +1,57 @@
-# Hi, I'm Dev Searchopal 👋
-
-Welcome to my GitHub profile! I’m an Android Developer passionate about mobile apps, open-source, and building useful projects.
-
----
-
-## 🚀 About Me
-- Android Developer | Kotlin & Java  
-- Skilled in Firebase, REST APIs, UI/UX Design  
-- Open-source contributor & tech enthusiast  
-- Always learning and improving
+Here is a **clean, professional, attractive** GitHub README you can paste directly into your GitHub profile.
+Well-formatted, modern, with badges, icons, and better wording.
 
 ---
 
-## 🛠️ Skills
-**Languages:** Java, Kotlin, Python, Flutter, Dart 
-**Frameworks & Tools:** Android Studio, Git, Firebase, REST APIs  
-**Other:** Agile Development, UI/UX, App Architecture
+# 👋 Hi, I'm **Dev Searchopal**
+
+**Android & Flutter Developer | Mobile App Specialist | Firebase Expert**
+
+Passionate about building high-quality mobile apps, writing clean code, and contributing to open-source. Always learning, improving, and experimenting with new technologies.
+
+---
+
+## 🚀 **About Me**
+
+* 💻 Mobile Developer (Android + Flutter)
+* 🔥 Skilled in Kotlin, Java, Dart & Firebase
+* 📱 Love creating beautiful UI/UX and smooth app experiences
+* 🌐 Experienced with REST APIs & backend integrations
+* 🤝 Open-source contributor
+* 🚀 Always learning new tools & tech
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Languages**
+
+* **Kotlin**, **Java**, **Dart**, **Python**
+
+### **Mobile Frameworks**
+
+* **Android (Native)**
+* **Flutter**
+
+### **Tools & Technologies**
+
+* Android Studio
+* Firebase (Auth, FCM, Firestore, Analytics)
+* REST APIs
+* Git & GitHub
+* MVVM Architecture
+* UI/UX Design Principles
+
+---
+
+## 📊 **GitHub Stats**
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devsearchopal&theme=radical)
 
 ---
 
 
-## 📊 GitHub Stats
-https://github-readme-streak-stats.herokuapp.com/?user=devsearchopal&theme=radical
+## ⚡ **Fun Fact**
 
----
+I try to code **every single day** — consistency builds greatness!
 
-## 📫 Contact Me
-- Email: dev.searchopal@gmail.com  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/devsearchopal)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-
----
-
-> ⚡ Fun fact: I try to code every day to improve my skills and contribute to open-source.
