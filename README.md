@@ -1,26 +1,42 @@
 # Hi, I'm Dev Searchopal 👋
 
-Welcome to my GitHub profile! I’m an Android Developer and tech enthusiast.
+Welcome to my GitHub profile! I’m an Android Developer passionate about mobile apps, open-source, and building useful projects.
+
+---
 
 ## 🚀 About Me
-- Passionate about Android development and mobile apps  
-- Exploring Git, GitHub, and open-source contributions  
-- Learning new technologies and building useful projects  
+- Android Developer | Kotlin & Java  
+- Skilled in Firebase, REST APIs, UI/UX Design  
+- Open-source contributor & tech enthusiast  
+- Always learning and improving
+
+---
 
 ## 🛠️ Skills
-- **Languages:** Java, Kotlin, Python  
-- **Tools:** Android Studio, Git, Firebase, REST APIs  
-- **Other:** UI/UX Design, Agile Development  
+**Languages:** Java, Kotlin, Python, Flutter, Dart 
+**Frameworks & Tools:** Android Studio, Git, Firebase, REST APIs  
+**Other:** Agile Development, UI/UX, App Architecture
 
-## 🔥 Projects
-- [Searchopal CRM App](https://github.com/devsearchopal/searchopal-crm-app)  
-- [Another Project](https://github.com/devsearchopal/another-project)  
+---
+
 
 ## 📊 GitHub Stats
-![Dev Searchopal GitHub stats](https://github-readme-stats.vercel.app/api?username=devsearchopal&show_icons=true&theme=radical)
+
+![Dev Searchopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsearchopal&show_icons=true&theme=radical&count_private=true)  
+
+**Top Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsearchopal&layout=compact&theme=radical)
+
+**GitHub Streak**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devsearchopal&theme=radical)
+
+---
 
 ## 📫 Contact Me
 - Email: dev.searchopal@gmail.com  
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/devsearchopal)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/devsearchopal)  
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+
+---
+
+> ⚡ Fun fact: I try to code every day to improve my skills and contribute to open-source.
