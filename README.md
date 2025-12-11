@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Dev Searchopal 👋
 
-<!--
-**devsearchopal/devsearchopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m an Android Developer and tech enthusiast.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Passionate about Android development and mobile apps  
+- Exploring Git, GitHub, and open-source contributions  
+- Learning new technologies and building useful projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Java, Kotlin, Python  
+- **Tools:** Android Studio, Git, Firebase, REST APIs  
+- **Other:** UI/UX Design, Agile Development  
+
+## 🔥 Projects
+- [Searchopal CRM App](https://github.com/devsearchopal/searchopal-crm-app)  
+- [Another Project](https://github.com/devsearchopal/another-project)  
+
+## 📊 GitHub Stats
+![Dev Searchopal GitHub stats](https://github-readme-stats.vercel.app/api?username=devsearchopal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsearchopal&layout=compact&theme=radical)
+
+## 📫 Contact Me
+- Email: dev.searchopal@gmail.com  
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/devsearchopal)  
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
