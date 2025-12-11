@@ -21,14 +21,7 @@ Welcome to my GitHub profile! I’m an Android Developer passionate about mobile
 
 
 ## 📊 GitHub Stats
-
-![Dev Searchopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsearchopal&show_icons=true&theme=radical&count_private=true)  
-
-**Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsearchopal&layout=compact&theme=radical)
-
-**GitHub Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devsearchopal&theme=radical)
+https://github-readme-streak-stats.herokuapp.com/?user=devsearchopal&theme=radical
 
 ---
 
