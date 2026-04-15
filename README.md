@@ -44,12 +44,21 @@ Passionate about building high-quality mobile apps, writing clean code, and cont
 
 ---
 
-# Dev Searchopal GitHub Stats
+# 🚀 Dev Searchopal GitHub Stats
 
-![Dev Searchopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsearchopal&show_icons=true&theme=radical&count_private=true)
+<p align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=devsearchopal&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=devsearchopal&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180em" />
 
+<img src="https://streak-stats.demolab.com?user=devsearchopal&theme=radical&hide_border=false" height="180em" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsearchopal&layout=compact&theme=radical" height="180em" />
+
+</p>
 
 
 ---
