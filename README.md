@@ -54,14 +54,6 @@ Passionate about building high-quality mobile apps, writing clean code, and cont
 
 </p>
 
-<!-- <p align="center"> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsearchopal&layout=compact&theme=radical" height="180em" /> -->
-
-<!-- </p> -->
-
-
----
 ---
 
 # 🚀 Most Used Languages & Technologies
