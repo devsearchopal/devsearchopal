@@ -62,7 +62,19 @@ Passionate about building high-quality mobile apps, writing clean code, and cont
 
 
 ---
+---
 
+# 🚀 Most Used Languages & Technologies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsearchopal&layout=donut-vertical&theme=radical&langs_count=10&hide_border=false" height="300em" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css,bootstrap,react,nodejs,mysql,postgres,git,github" />
+</p>
+
+---
 
 ## ⚡ **Fun Fact**
 
