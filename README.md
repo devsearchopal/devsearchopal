@@ -54,11 +54,11 @@ Passionate about building high-quality mobile apps, writing clean code, and cont
 
 </p>
 
-<p align="center">
+<!-- <p align="center"> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsearchopal&layout=compact&theme=radical" height="180em" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsearchopal&layout=compact&theme=radical" height="180em" /> -->
 
-</p>
+<!-- </p> -->
 
 
 ---
